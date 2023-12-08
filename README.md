@@ -1,6 +1,7 @@
 # PEC3: VISIONANDO EL FUTURO CON LAS GAFAS DE MANOVICH
 ###### Autor: *Ana Iráculis*
-###### Fecha: *06/12/2023*
+###### Fecha: *08/12/2023*
+
 
 ![RA](https://github.com/airaculis/PEC3_Manovich_Reloaded/assets/152321183/55c1c1dd-2f35-4ad4-84fd-84db0459fa3f)
 
@@ -19,7 +20,10 @@ Por una parte, se analizará la realidad aumentada (RA) adoptada por *L´Oréal*
 Y por otra, la introducción de RA en la exposición inmersiva de *Van Gogh Experience*, donde se puede examinar cómo esta tecnología combina lo tangible con lo digital para crear una experiencia única.
 
 
+
 ## Re-descubriendo la hibridación: *L’Oréal*, campaña “*Try Before Buy It*”
+
+![Campaña de L'Oréal "TryBeforeYouBuy"](https://github.com/airaculis/PEC3_Manovich_Reloaded/assets/152321183/f7bf7207-4d61-4e00-8a6a-5861503ec3be)
 
 ### Conceptualización
 La conceptualización del caso de hibridación en la campaña “*[Try Before You Buy](https://www.loreal-paris.co.uk/virtual-try-on)*” de *L'Oréal* implica entender cómo la fusión de lo analógico y lo digital redefine la experiencia del consumidor.
@@ -63,8 +67,11 @@ Este concepto/ enfoque se refleja en la decisión de L'Oréal de integrar la rea
 
 En resumen, la elección de *L'Oréal* de integrar la realidad aumentada se puede entender, desde la perspectiva de *Manovich*, como una **forma de hibridación que fusiona lo físico y lo digital, transforma la experiencia de compra, promueve la interactividad, amplía las narrativas de marca, refleja la cultura digital y facilita la recopilación de datos para personalización**.
 
+
+
 ## Re-descubriendo la hibridación: Exposición inmersiva “*Van Gogh Experience*”
 
+![Exposición inmersiva "VanGoghExperience"](https://github.com/airaculis/PEC3_Manovich_Reloaded/assets/152321183/fa858c8a-77f3-4121-93b7-b750f530c147)
 
 ### Conceptualización
 La fusión de lo clásico y lo digital cobra vida en la exposición inmersiva de *[Van Gogh Experience](https://vangoghexpo.com/)*, según la visión de *Lev Manovich*. Aquí, la hibridación redefine cómo apreciamos el arte al combinar las pinturas tradicionales de *Van Gogh* con tecnologías digitales envolventes.
@@ -114,6 +121,8 @@ Así lo vemos en la elección de incluir la realidad aumentada en la exposición
 
 La incorporación de realidad aumentada en la exposición inmersiva de *Van Gogh* se alinea con el concepto de hibridación de *Manovich* al **fusionar lo físico y lo digital, revitalizar la experiencia artística, fomentar la interactividad, ampliar narrativas, reflejar la cultura digital y permitir la recopilación de datos para personalización**.
 
+
+
 ***
 #### Referencias y bibliografía
 
@@ -123,7 +132,7 @@ MUÑOZ-JUSTICIA, Juan (2014): "Conocimiento Abierto y Tecnología".  Disponible 
 
 McMILLAN, Robert (2012). "*Lord of the Files: How GitHub Tamed Free Software (And More)*".
 
-*Lev Manovich*, Wikipedia: la enciclopedia libre. [consulta: 04/12/2023]. Disponible en: [enter link description here](https://vangoghexpo.com/)https://en.wikipedia.org/wiki/Lev_Manovich
+*Lev Manovich*, Wikipedia: la enciclopedia libre. [consulta: 04/12/2023]. Disponible en: https://en.wikipedia.org/wiki/Lev_Manovich)
 
 *L´Oréal*, *Virtual Try On for Hair Colour* & *Makeup*.  Disponible en: https://www.loreal-paris.co.uk/virtual-try-on
 
@@ -132,6 +141,10 @@ McMILLAN, Robert (2012). "*Lord of the Files: How GitHub Tamed Free Software (An
 ***
 #### Imágenes
 Image by <a href="https://pixabay.com/users/xresch-7410129/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6929333">Reto Scheiwiller</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6929333">Pixabay</a>
+
+L´Oréal Paris, Virtual Try On for Hair Colour & Makeup. Disponible en: https://www.loreal-paris.co.uk/virtual-try-on
+
+Carousel, Selling out Van Gogh Alive: The world’s most visited immersive experienceDisponible en: https://www.carouselpr.com/projects/selling-out-van-gogh-alive
 
 #### Licencia
 
